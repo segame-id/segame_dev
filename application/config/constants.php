@@ -86,4 +86,4 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 // Custom
 define('APPTOKEN', '$2y$10$.pslhtQN40mZurSqDm/Cku2Zq/4AqSZ8y3zwkeLRouM1LdmlLytJy');
-define('API_URL', 'http://localhost/segameapi/');
+define('API_URL', 'https://api.segame.id/');
